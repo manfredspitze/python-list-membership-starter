@@ -1,4 +1,4 @@
-# Mastery Check: Checking for Membership in a List
+# Mastery Check #1: Checking for Membership in a List
 
 ## Submitting Your Work
 > Create a **PUBLIC** GitHub repo named: ***list-membership-mc1***
