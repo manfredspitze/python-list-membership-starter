@@ -7,6 +7,7 @@
 
 ### Related Resources
 - [Python Operators](https://www.w3schools.com/python/python_operators.asp)
+- [Examples of the IN and NOT IN operators](https://www.geeksforgeeks.org/python-membership-identity-operators-not-not/#)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
