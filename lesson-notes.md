@@ -3,6 +3,8 @@
 
 ### Directions
 - Read these notes and check out the related resources before you start writing any code for this lesson
+- Also try writing a simple script of your own that uses some of the different operators listed below under **Related Resources**
+- Try running some of the interactive examples under **Related Resources**
 
 
 ### Related Resources
