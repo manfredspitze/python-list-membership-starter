@@ -29,6 +29,7 @@
     - It is often used to check whether a specific item/element is contained in a Python list
     - In other words, **is the item/element contained in the list or not?**
 - You can -- and often will -- use various operators from different families of operators in your code
+  - For example, the membership `in` operator can be used together with the logical operator `not`
 - See the list of operators above in **Related Resources**
 - When using multiple operators together, remember to keep the *order of operations* (PEMDAS) your math teacher told you about in mind
 
