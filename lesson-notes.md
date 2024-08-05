@@ -25,7 +25,7 @@
 ```
 print(100 + 5 * 3)
 
-# Multiplication has higher precedence than addition, and needs to be evaluated first
+# Multiplication has a higher precedence than addition, and needs to be evaluated first
 # The calculation above works out to be: 100 + 15 = 115
 ```
 [Interactive order of operations example](https://www.w3schools.com/python/trypython.asp?filename=demo_precedence_multiplication)
