@@ -15,6 +15,7 @@
 - Essentially, an **operator** is a symbol you can use to modify/change a variable or its value in some way
 - For example, the assignment operator (=) allows you to *assign* a value to a Python variable
   - Example: `age = 21` (You're storing or assigning the numeric value (number) 21 to a variable named `age`)
+  - EXample: `hair_color = 'brown'` (You're assigning the value 'brown' to the variable named `hair_color`)
 - Python (and other programming languages) offer programmers different families of operators, including:
   - arithmetic operators (for doing math)
   - assignment operators
