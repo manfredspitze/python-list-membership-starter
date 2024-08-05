@@ -22,10 +22,10 @@
 - See the list of operators above in **Related Resources**
 - When using multiple operators together, remember to keep the *order of operations* your math teacher told you about in mind
 
-`
+```
 print(100 + 5 * 3)
 
 # Multiplication has higher precedence than addition, and needs to be evaluated first
 # The calculation above reads 100 + 15 = 115
-`
+```
 [Order of operations example](https://www.w3schools.com/python/trypython.asp?filename=demo_precedence_multiplication)
