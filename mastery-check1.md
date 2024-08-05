@@ -19,3 +19,5 @@
     - Print a specific message for the user based on the result of the membership check
   - uses an if-else statement and the `not in` operators to see if a specific letter IS NOT PRESENT in the string you assigned to the variable
     - Print a specific message for the user based on the result of the membership check
+   
+**Remember to add a comment block to the top of your script.**
