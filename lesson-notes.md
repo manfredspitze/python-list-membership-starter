@@ -20,7 +20,7 @@
   - logical operators
   - membership operators
 - See the list of operators above in **Related Resources**
-- When using multiple operators together, remember to keep the *order of operations* your math teacher told you about in mind
+- When using multiple operators together, remember to keep the *order of operations* (PEMDAS) your math teacher told you about in mind
 
 ```
 print(100 + 5 * 3)
