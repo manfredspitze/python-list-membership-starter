@@ -19,6 +19,9 @@
   - comparison operators
   - logical operators
   - membership operators
+    - The **in** operator is an example of a membership operator
+    - It is often used to check whether a specific item/element is contained in a Python list
+    - In other words, **is the item/element contained in the list or not?**
 - See the list of operators above in **Related Resources**
 - When using multiple operators together, remember to keep the *order of operations* (PEMDAS) your math teacher told you about in mind
 
