@@ -5,7 +5,7 @@
 # Create a list with several elements in it
 fruits = ['kiwi', 'mango', 'apple']
 
-# Use if statement and in operator to see if a specific fruit is contained
+# Use if statement and the in membership operator to see if a specific fruit is contained
 # in the list
 desired_fruit = 'orange'
 if desired_fruit in fruits:
