@@ -27,8 +27,8 @@
 
 # Part 3
 # Create a list containing at least four (4) different flavors of ice cream
-# Use the built-in `input()` function to prompt (ask) the user for their favorite flavor of ice cream
-# Use an if-else statement and the `not in` operators to see if the user's favorite flavor of ice
+# Use the built-in input() function to prompt (ask) the user for their favorite flavor of ice cream
+# Use an if-else statement and the not in operators to see if the user's favorite flavor of ice
 # cream is present in the list of ice cream flavors
 # Print a short message that tells the user whether his/her favorite flavor was present in the 
 # list of flavors (or not)
